@@ -1,0 +1,19 @@
+{
+  "name": "test-technique_La-Combe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "babel-jest": "^28.1.3",
+    "jest": "^28.1.2"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.18.9"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
